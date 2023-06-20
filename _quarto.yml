@@ -8,7 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - href: https://www.isg-institut.de/
-        text: ISG
+        text: ISG Homepage
       - about.qmd
   page-footer: 
     left: "© 2023 Hans Verbeek"
