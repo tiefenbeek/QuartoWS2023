@@ -7,7 +7,15 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: https://www.isg-institut.de/
+        text: ISG
       - about.qmd
+  page-footer: 
+    left: "© 2023 Hans Verbeek"
+    center: "Powered by [quarto](https://quarto.org)"
+    right: 
+      - icon: github
+      - href: https://github.com/tiefenbeek
 
 format:
   html:
@@ -17,3 +25,5 @@ format:
 
 editor: visual
 
+execute:
+  freeze: auto
